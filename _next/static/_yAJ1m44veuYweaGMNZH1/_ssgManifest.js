@@ -1,1 +1,0 @@
-self.__SSG_MANIFEST=new Set(["\u002Fdashboard\u002F[userDich]\u002F[idBaidich]","\u002Fdichthuat\u002FbaidichHandle\u002F[slug]","\u002Fdichthuat\u002FdichthuatDetails\u002F[slug]","\u002Fdichthuat\u002FdichthuatViewer\u002F[bodich]\u002F[baidich]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
